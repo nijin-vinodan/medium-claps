@@ -1,0 +1,9 @@
+.icon {
+    width: 25px;
+    fill: none;
+    stroke: #27AE60;
+
+    &.clicked {
+        fill: #27AE60
+    }
+}

@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This medium clap is done as a part of Udemy Course Exercise.
 
 ## Available Scripts
 
